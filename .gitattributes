@@ -1,0 +1,2 @@
+model(400data).pt filter=lfs diff=lfs merge=lfs -text
+.pt filter=lfs diff=lfs merge=lfs -text
