@@ -222,4 +222,4 @@ If you use this work in your research, please cite:
 
 ---
 
-<p align="center">Made with ❤️ for the Legal AI Community</p>
+<p align="center"></p>
